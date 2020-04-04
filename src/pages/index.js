@@ -8,8 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hello, World.</h1>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/about/">About</Link>
   </Layout>
 )
 
