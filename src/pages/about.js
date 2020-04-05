@@ -21,19 +21,17 @@ const About = () => (
       my life.
     </p>
     <p>
-      In 2015, I returned to New Jersey and deepened my commitment to the
-      practices and study. I’ve met many beautiful souls and teachers that
-      inspire my practice. In 2017 in completed my Yoga Teacher Training
+      I returned to Jersey in 2015 and discovered many studios close to home, it
+      was a welcome surprise. In 2017 in completed my Yoga Teacher Training
       200-hour certification and immediately began teaching.
     </p>
     <p>
       My interests are varied; I enjoy teaching beginning students, individuals
       with special needs and those striving for the sublime spiritual connection
       of asana, breath, and mediation. I remain inspired by the writings of
-      Swami Premananda, Srimati Kamala (Swami Kamalandanda), Swami
-      Satchidananda, BKS Iyengar, and Pema Chodron. I’m the proud father of two
-      amazing children and wake up grateful. I work as a software engineer and
-      have a love of the arts, playing and enjoying music.
+      Swami Kamalandanda (Srimati Kamala), Swami Satchidananda, BKS Iyengar, and
+      Pema Chodron, to name just a few. I’m the proud father of two amazing
+      children and wake up most days grateful.
     </p>
     <Link to="/">Home</Link>
   </Layout>
