@@ -21,17 +21,15 @@ const About = () => (
       my life.
     </p>
     <p>
-      I returned to Jersey in 2015 and discovered many studios close to home, it
-      was a welcome surprise. In 2017 in completed my Yoga Teacher Training
-      200-hour certification and immediately began teaching.
+      I returned to Jersey in 2015 and discovered many studios close to home. In
+      2017 in completed my Yoga Teacher Training 200-hour certification and
+      immediately began teaching.
     </p>
     <p>
-      My interests are varied; I enjoy teaching beginning students, individuals
-      with special needs and those striving for the sublime spiritual connection
-      of asana, breath, and mediation. I remain inspired by the writings of
+      My teaching and practice interests are varied; I have a focus on beginning
+      students and those with special needs. I am inspired by the writings of
       Swami Kamalandanda (Srimati Kamala), Swami Satchidananda, BKS Iyengar, and
-      Pema Chodron, to name just a few. I’m the proud father of two amazing
-      children and wake up most days grateful.
+      Pema Chodron. I’m the proud father of two amazing children.
     </p>
     <Link to="/">Home</Link>
   </Layout>
