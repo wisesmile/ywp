@@ -23,7 +23,7 @@ const IndexPage = () => (
         </a>{" "}
       </p>
     </center>
-    <Link to="/about/">About</Link>
+    <Link to="/about/">About</Link>&nbsp;<Link to="/schedule/">Schedule</Link>
   </Layout>
 )
 
