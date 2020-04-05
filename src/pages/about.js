@@ -30,7 +30,8 @@ const About = () => (
     <p>
       My teaching and practice interests are varied; I have a focus on beginning
       students and those with special needs. I am inspired by the writings of
-      Swami Kamalandanda, Swami Satchidananda, BKS Iyengar, and Pema Chodron.
+      Swami Kamalananda ("Srimati Kamala"), Swami Satchidananda, BKS Iyengar,
+      and Pema Chodron.
     </p>
     <p>I’m the proud father of two amazing children.</p>
     <Link to="/">Home</Link>
