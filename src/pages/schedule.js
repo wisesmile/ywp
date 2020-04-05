@@ -6,13 +6,19 @@ import { Link } from "gatsby"
 
 const TeachingSchedule = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Schedule" />
     <p>
       <b>All classes are being conducted online via Zoom.</b>
     </p>{" "}
     <p>
-      Visit <a href="http://www.yogapeacekula.com">Yoga Peace Kula</a> and{" "}
-      <a href="http://peacewarrioryoga.com/">Peace Warrior Yoga and Wellness</a>{" "}
+      Visit{" "}
+      <a href="http://www.yogapeacekula.com" target="_new">
+        Yoga Peace Kula
+      </a>{" "}
+      and{" "}
+      <a href="http://peacewarrioryoga.com/" target="_new">
+        Peace Warrior Yoga and Wellness
+      </a>{" "}
       for signup information and additional classes.{" "}
     </p>
     <p>Please consider supporting local yoga studios during this time.</p>
