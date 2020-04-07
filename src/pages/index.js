@@ -1,8 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Footer from "../components/Footer"
 
 const IndexPage = () => (
   <Layout>
@@ -23,7 +22,7 @@ const IndexPage = () => (
         </a>{" "}
       </p>
     </center>
-    <Link to="/about/">About</Link>&nbsp;<Link to="/schedule/">Schedule</Link>
+    <Footer />
   </Layout>
 )
 
