@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
         <br />
         <hr />
         <br />
-        <footer>© {new Date().getFullYear()}, Built with Gatsby</footer>
+        <footer>© {new Date().getFullYear()}</footer>
       </div>
     </>
   )
