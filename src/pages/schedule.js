@@ -7,8 +7,14 @@ import { Link } from "gatsby"
 const TeachingSchedule = () => (
   <Layout>
     <SEO title="Schedule" />
+    <h3>{YAMLData.title}</h3>
+    <ul>
+      {YAMLData.content.map((data, index) => {
+        return <li key={`content_item_${index}`}>{data.item}</li>
+      })}
+    </ul>
     <p>
-      <b>All classes are being conducted online via Zoom.</b>
+      <b>All classes are virtual, for now.</b>
     </p>{" "}
     <p>
       Visit{" "}
@@ -21,15 +27,6 @@ const TeachingSchedule = () => (
       </a>{" "}
       for signup information and additional classes.{" "}
     </p>
-    <p>Please consider supporting local yoga studios during this time.</p>
-    <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>
-      <h1>{YAMLData.title}</h1>
-      <ul>
-        {YAMLData.content.map((data, index) => {
-          return <li key={`content_item_${index}`}>{data.item}</li>
-        })}
-      </ul>
-    </div>
     <Link to="/">Home</Link>
   </Layout>
 )
